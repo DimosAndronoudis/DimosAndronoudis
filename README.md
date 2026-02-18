@@ -18,6 +18,7 @@ One-class teacher–student distillation for audio deepfake detection using an X
 
 **Results (EER):** 3.64% (ASVspoof2021 DF) / 8.88% (ASVspoof2021 LA) / 6.89% (In-the-Wild)  
 **Note:** Student+SVM inference is faster but weaker than the full pipeline.
+https://github.com/DimosAndronoudis/One-Class-Teacher-Student-Distillation-and-a-Student-SVM-Pipeline-for-speech-deepfake-detection
 
 ---
 
