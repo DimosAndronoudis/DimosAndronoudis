@@ -77,7 +77,7 @@ Repo: https://github.com/DimosAndronoudis/AI_WAV_Hunter
 ## Links
 - GitHub: https://github.com/DimosAndronoudis  
 - Email: dimos.andronoudis92@gmail.com  
-- LinkedIn: (add link)  
+- LinkedIn: https://www.linkedin.com/in/dimos-andronoudis-161118282
 - Spotify: https://open.spotify.com/artist/3BJ5J3Ek4m9c6wpotE0nHg  
 
 <!-- Next additions:
