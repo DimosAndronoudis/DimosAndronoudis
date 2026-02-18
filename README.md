@@ -1,6 +1,6 @@
 # Dimos Andronoudis
 
-Junior AI / Python Developer (Athens) working on agentic AI systems, local-first RAG, and speech/audio ML.  
+Junior AI / Python Developer (Athens) working on agentic AI systems. 
 Currently building agentic AI projects while actively producing music (audio + AI is the long-term direction). 🎧
 
 - **Collaboration:** open to projects at the intersection of **audio + AI** (speech, music, audio tooling, agents for audio workflows).
