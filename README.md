@@ -34,7 +34,7 @@ Repo: https://github.com/DimosAndronoudis/NanoSupport
 
 ---
 
-### AI_WAV_Hunter
+### AI-WAV-Hunter
 Full-stack web application using an AI-powered browser automation agent to discover and download audio samples from Freesound.org based on natural-language search queries.  
 Repo: https://github.com/DimosAndronoudis/AI_WAV_Hunter
 
