@@ -37,9 +37,8 @@ One-class teacher–student distillation for audio deepfake detection using an X
 **Note:** Student+SVM inference is faster but weaker than the full pipeline.  
 Repo: https://github.com/DimosAndronoudis/One-Class-Teacher-Student-Distillation-and-a-Student-SVM-Pipeline-for-speech-deepfake-detection
 
-### AI-VoiceControl
-Production-ready voice interface for Spotify with FastAPI + WebSockets, using Whisper and Gemini for hands-free playback control.  
-Repo: https://github.com/DimosAndronoudis/AI-VoiceControl
+- **AI-VoiceControl** — production-ready voice interface for Spotify with FastAPI + WebSockets, using Whisper and Gemini for hands-free playback control  
+  https://github.com/DimosAndronoudis/AI-VoiceControl
 
 - **ToneTeller** — transforms scripts into lifelike narrations using automatic emotion classification + GLM-TTS voice cloning  
   https://github.com/DimosAndronoudis/ToneTeller
@@ -95,8 +94,3 @@ Repo: https://github.com/DimosAndronoudis/AI-VoiceControl
 - Email: dimos.andronoudis92@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/dimos-andronoudis-161118282  
 - Spotify: https://open.spotify.com/artist/3BJ5J3Ek4m9c6wpotE0nHg  
-
-<!-- Next additions:
-- Audio project: Parser (repo link + 1-line description)
-- Audio project: Multi-agent system (repo link + 1-line description)
--->
