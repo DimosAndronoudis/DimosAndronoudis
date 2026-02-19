@@ -10,25 +10,7 @@ Currently building agentic AI projects while actively producing music (audio + A
 
 ---
 
-## General AI projects
-
-### AI_WAV_Hunter
-Full-stack web application using an AI-powered browser automation agent to discover and download audio samples from Freesound.org based on natural-language search queries.  
-Repo: https://github.com/DimosAndronoudis/AI_WAV_Hunter
-
-### GR-Legal-RAG
-Advanced, local-first RAG pipeline for hierarchy-aware retrieval of Greek legal documents.  
-Repo: https://github.com/DimosAndronoudis/GR-Legal-RAG
-
-### AI-PaperLens
-Drop any academic PDF, get back structured JSON (sections, figures, claims) plus live GitHub repo stats.  
-Repo: https://github.com/DimosAndronoudis/AI-PaperLens
-
----
-
-## Audio AI and Machine Learning projects
-
-### Thesis — Speech deepfake detection (One-Class KD + Student-SVM)
+## Thesis (M.Sc. NLP) — Speech deepfake detection
 **One-Class Teacher–Student Distillation and a Lightweight Student-SVM Pipeline for speech deepfake detection**
 
 One-class teacher–student distillation for audio deepfake detection using an XLS-R 300M teacher trained on ASVspoof2019-LA and a lightweight student (plus student-embedding SVM). Evaluated by EER on ASVspoof2021 DF/LA and In-the-Wild.
@@ -37,10 +19,25 @@ One-class teacher–student distillation for audio deepfake detection using an X
 **Note:** Student+SVM inference is faster but weaker than the full pipeline.  
 Repo: https://github.com/DimosAndronoudis/One-Class-Teacher-Student-Distillation-and-a-Student-SVM-Pipeline-for-speech-deepfake-detection
 
-- **AI-VoiceControl** — production-ready voice interface for Spotify with FastAPI + WebSockets, using Whisper and Gemini for hands-free playback control  
+---
+
+## General AI projects
+- **AI_WAV_Hunter** — AI browser automation agent that discovers and downloads audio samples from Freesound.org from natural-language queries  
+  https://github.com/DimosAndronoudis/AI_WAV_Hunter
+
+- **GR-Legal-RAG** — local-first, hierarchy-aware RAG for Greek legal documents  
+  https://github.com/DimosAndronoudis/GR-Legal-RAG
+
+- **AI-PaperLens** — academic PDF → structured JSON (sections, figures, claims) + live GitHub repo stats  
+  https://github.com/DimosAndronoudis/AI-PaperLens
+
+---
+
+## Audio AI and Machine Learning projects
+- **AI-VoiceControl** — voice interface for Spotify (FastAPI + WebSockets), using Whisper + Gemini for hands-free playback control  
   https://github.com/DimosAndronoudis/AI-VoiceControl
 
-- **ToneTeller** — transforms scripts into lifelike narrations using automatic emotion classification + GLM-TTS voice cloning  
+- **ToneTeller** — scripts → lifelike narrations via emotion classification + GLM-TTS voice cloning  
   https://github.com/DimosAndronoudis/ToneTeller
 
 - **MyVoice-Studio** — zero-shot voice cloning toolkit + Web UI built on GLM-TTS logic  
@@ -58,14 +55,12 @@ Repo: https://github.com/DimosAndronoudis/One-Class-Teacher-Student-Distillation
 ---
 
 ## Finetuning
-
-- **NanoSupport** — high-speed, lightweight pipeline for fine-tuning 0.5B models into professional customer support agents using Unsloth  
+- **NanoSupport** — high-speed pipeline for fine-tuning 0.5B models into customer support agents (Unsloth)  
   https://github.com/DimosAndronoudis/NanoSupport
 
 ---
 
 ## Conversational ML
-
 - **Music_ChitChat** — fine-tunes Phi-1.5 on a music-related Q&A dataset  
   https://github.com/DimosAndronoudis/Music_ChitChat
 
@@ -76,7 +71,7 @@ Repo: https://github.com/DimosAndronoudis/One-Class-Teacher-Student-Distillation
 
 ## Technical stack
 - **Languages:** Python  
-- **ML/DL:** PyTorch, scikit-learn (select TensorFlow when needed)  
+- **ML/DL:** PyTorch, scikit-learn  
 - **Agentic systems:** LangChain/LangGraph, tool calling, MCP integrations, structured outputs  
 - **Engineering:** SQL, REST APIs, Docker, automation pipelines, logging/telemetry  
 
@@ -86,11 +81,3 @@ Repo: https://github.com/DimosAndronoudis/One-Class-Teacher-Student-Distillation
 - M.Sc. Natural Language Processing — National and Kapodistrian University of Athens  
 - M.Sc. Internet and Politics — National and Kapodistrian University of Athens  
 - B.A. Educational & Social Policy — University of Macedonia  
-
----
-
-## Links
-- GitHub: https://github.com/DimosAndronoudis  
-- Email: dimos.andronoudis92@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/dimos-andronoudis-161118282  
-- Spotify: https://open.spotify.com/artist/3BJ5J3Ek4m9c6wpotE0nHg  
